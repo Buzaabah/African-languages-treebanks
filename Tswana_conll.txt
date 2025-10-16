@@ -1,0 +1,719 @@
+# sent_id = 1
+# text = MASUNGA: Bagwebi bangwe le mapolotiki a motse wa Masunga le metsana e e mo tikologong kwa kgaolong ya Bokone-Botlhaba, ba kgaletswe go goga dinao fa go tla mo ditirong tse di tlhokanang le bopelotlhomogi.
+1	MASUNGA:	_	_	_	_	_	_	_	_
+2	Bagwebi	_	_	_	_	_	_	_	_
+3	bangwe	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	mapolotiki	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	motse	_	_	_	_	_	_	_	_
+8	wa	_	_	_	_	_	_	_	_
+9	Masunga	_	_	_	_	_	_	_	_
+10	le	_	_	_	_	_	_	_	_
+11	metsana	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	mo	_	_	_	_	_	_	_	_
+15	tikologong	_	_	_	_	_	_	_	_
+16	kwa	_	_	_	_	_	_	_	_
+17	kgaolong	_	_	_	_	_	_	_	_
+18	ya	_	_	_	_	_	_	_	_
+19	Bokone-Botlhaba,	_	_	_	_	_	_	_	_
+20	ba	_	_	_	_	_	_	_	_
+21	kgaletswe	_	_	_	_	_	_	_	_
+22	go	_	_	_	_	_	_	_	_
+23	goga	_	_	_	_	_	_	_	_
+24	dinao	_	_	_	_	_	_	_	_
+25	fa	_	_	_	_	_	_	_	_
+26	go	_	_	_	_	_	_	_	_
+27	tla	_	_	_	_	_	_	_	_
+28	mo	_	_	_	_	_	_	_	_
+29	ditirong	_	_	_	_	_	_	_	_
+30	tse	_	_	_	_	_	_	_	_
+31	di	_	_	_	_	_	_	_	_
+32	tlhokanang	_	_	_	_	_	_	_	_
+33	le	_	_	_	_	_	_	_	_
+34	bopelotlhomogi.	_	_	_	_	_	_	_	_
+
+# sent_id = 2
+# text = Mafoko a go ba kgala a rototswe ke baithuti ba mophato wa botlhano ba ba dirang thuto ya tshekatsheko ditlhabololo kwa sekolong se segolwane sa Masunga, kgwedi eno e tlhola malatsi a le lesome le bosupa.
+1	Mafoko	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	go	_	_	_	_	_	_	_	_
+4	ba	_	_	_	_	_	_	_	_
+5	kgala	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	rototswe	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	baithuti	_	_	_	_	_	_	_	_
+10	ba	_	_	_	_	_	_	_	_
+11	mophato	_	_	_	_	_	_	_	_
+12	wa	_	_	_	_	_	_	_	_
+13	botlhano	_	_	_	_	_	_	_	_
+14	ba	_	_	_	_	_	_	_	_
+15	ba	_	_	_	_	_	_	_	_
+16	dirang	_	_	_	_	_	_	_	_
+17	thuto	_	_	_	_	_	_	_	_
+18	ya	_	_	_	_	_	_	_	_
+19	tshekatsheko	_	_	_	_	_	_	_	_
+20	ditlhabololo	_	_	_	_	_	_	_	_
+21	kwa	_	_	_	_	_	_	_	_
+22	sekolong	_	_	_	_	_	_	_	_
+23	se	_	_	_	_	_	_	_	_
+24	segolwane	_	_	_	_	_	_	_	_
+25	sa	_	_	_	_	_	_	_	_
+26	Masunga,	_	_	_	_	_	_	_	_
+27	kgwedi	_	_	_	_	_	_	_	_
+28	eno	_	_	_	_	_	_	_	_
+29	e	_	_	_	_	_	_	_	_
+30	tlhola	_	_	_	_	_	_	_	_
+31	malatsi	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	le	_	_	_	_	_	_	_	_
+34	lesome	_	_	_	_	_	_	_	_
+35	le	_	_	_	_	_	_	_	_
+36	bosupa.	_	_	_	_	_	_	_	_
+
+# sent_id = 3
+# text = Baithuti ba ba mo nakong eno ba lebaganeng le tiro e e bokete ya go agela motlhoki mongwe wa motse ntlo, ba re motlha o gorogile wa gore ba rolele mokgosi dingongorego tsa bone gonne ga twe 'le pelong ga le tshetse'.
+1	Baithuti	_	_	_	_	_	_	_	_
+2	ba	_	_	_	_	_	_	_	_
+3	ba	_	_	_	_	_	_	_	_
+4	mo	_	_	_	_	_	_	_	_
+5	nakong	_	_	_	_	_	_	_	_
+6	eno	_	_	_	_	_	_	_	_
+7	ba	_	_	_	_	_	_	_	_
+8	lebaganeng	_	_	_	_	_	_	_	_
+9	le	_	_	_	_	_	_	_	_
+10	tiro	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	bokete	_	_	_	_	_	_	_	_
+14	ya	_	_	_	_	_	_	_	_
+15	go	_	_	_	_	_	_	_	_
+16	agela	_	_	_	_	_	_	_	_
+17	motlhoki	_	_	_	_	_	_	_	_
+18	mongwe	_	_	_	_	_	_	_	_
+19	wa	_	_	_	_	_	_	_	_
+20	motse	_	_	_	_	_	_	_	_
+21	ntlo,	_	_	_	_	_	_	_	_
+22	ba	_	_	_	_	_	_	_	_
+23	re	_	_	_	_	_	_	_	_
+24	motlha	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	gorogile	_	_	_	_	_	_	_	_
+27	wa	_	_	_	_	_	_	_	_
+28	gore	_	_	_	_	_	_	_	_
+29	ba	_	_	_	_	_	_	_	_
+30	rolele	_	_	_	_	_	_	_	_
+31	mokgosi	_	_	_	_	_	_	_	_
+32	dingongorego	_	_	_	_	_	_	_	_
+33	tsa	_	_	_	_	_	_	_	_
+34	bone	_	_	_	_	_	_	_	_
+35	gonne	_	_	_	_	_	_	_	_
+36	ga	_	_	_	_	_	_	_	_
+37	twe	_	_	_	_	_	_	_	_
+38	'le	_	_	_	_	_	_	_	_
+39	pelong	_	_	_	_	_	_	_	_
+40	ga	_	_	_	_	_	_	_	_
+41	le	_	_	_	_	_	_	_	_
+42	tshetse'.	_	_	_	_	_	_	_	_
+
+# sent_id = 4
+# text = Baemedi ba baithuti, Lucky Ntaise le Keneilwe Mani, ba buile ba sa kgwe mathe ka ga go goga dinao ga mapolotiki mangwe le bagwebi ba Masunga le metsana e e mo tikologong, segolo jang fa go tla mo ditirong tse di batlang thuso ya madi.
+1	Baemedi	_	_	_	_	_	_	_	_
+2	ba	_	_	_	_	_	_	_	_
+3	baithuti,	_	_	_	_	_	_	_	_
+4	Lucky	_	_	_	_	_	_	_	_
+5	Ntaise	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	Keneilwe	_	_	_	_	_	_	_	_
+8	Mani,	_	_	_	_	_	_	_	_
+9	ba	_	_	_	_	_	_	_	_
+10	buile	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	sa	_	_	_	_	_	_	_	_
+13	kgwe	_	_	_	_	_	_	_	_
+14	mathe	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	ga	_	_	_	_	_	_	_	_
+17	go	_	_	_	_	_	_	_	_
+18	goga	_	_	_	_	_	_	_	_
+19	dinao	_	_	_	_	_	_	_	_
+20	ga	_	_	_	_	_	_	_	_
+21	mapolotiki	_	_	_	_	_	_	_	_
+22	mangwe	_	_	_	_	_	_	_	_
+23	le	_	_	_	_	_	_	_	_
+24	bagwebi	_	_	_	_	_	_	_	_
+25	ba	_	_	_	_	_	_	_	_
+26	Masunga	_	_	_	_	_	_	_	_
+27	le	_	_	_	_	_	_	_	_
+28	metsana	_	_	_	_	_	_	_	_
+29	e	_	_	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	mo	_	_	_	_	_	_	_	_
+32	tikologong,	_	_	_	_	_	_	_	_
+33	segolo	_	_	_	_	_	_	_	_
+34	jang	_	_	_	_	_	_	_	_
+35	fa	_	_	_	_	_	_	_	_
+36	go	_	_	_	_	_	_	_	_
+37	tla	_	_	_	_	_	_	_	_
+38	mo	_	_	_	_	_	_	_	_
+39	ditirong	_	_	_	_	_	_	_	_
+40	tse	_	_	_	_	_	_	_	_
+41	di	_	_	_	_	_	_	_	_
+42	batlang	_	_	_	_	_	_	_	_
+43	thuso	_	_	_	_	_	_	_	_
+44	ya	_	_	_	_	_	_	_	_
+45	madi.	_	_	_	_	_	_	_	_
+
+# sent_id = 5
+# text = Ba re fa go kopiwa thuso ya madi go leka go tokafatsa matshelo a ba ba thumang mo nokeng ya tshotlhego, bagwebi le mapolotiki ga ba supe kgatlhego, motho wa bone o nna maoto a tshupa go ingwaa kgeleswa.
+1	Ba	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	fa	_	_	_	_	_	_	_	_
+4	go	_	_	_	_	_	_	_	_
+5	kopiwa	_	_	_	_	_	_	_	_
+6	thuso	_	_	_	_	_	_	_	_
+7	ya	_	_	_	_	_	_	_	_
+8	madi	_	_	_	_	_	_	_	_
+9	go	_	_	_	_	_	_	_	_
+10	leka	_	_	_	_	_	_	_	_
+11	go	_	_	_	_	_	_	_	_
+12	tokafatsa	_	_	_	_	_	_	_	_
+13	matshelo	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	ba	_	_	_	_	_	_	_	_
+16	ba	_	_	_	_	_	_	_	_
+17	thumang	_	_	_	_	_	_	_	_
+18	mo	_	_	_	_	_	_	_	_
+19	nokeng	_	_	_	_	_	_	_	_
+20	ya	_	_	_	_	_	_	_	_
+21	tshotlhego,	_	_	_	_	_	_	_	_
+22	bagwebi	_	_	_	_	_	_	_	_
+23	le	_	_	_	_	_	_	_	_
+24	mapolotiki	_	_	_	_	_	_	_	_
+25	ga	_	_	_	_	_	_	_	_
+26	ba	_	_	_	_	_	_	_	_
+27	supe	_	_	_	_	_	_	_	_
+28	kgatlhego,	_	_	_	_	_	_	_	_
+29	motho	_	_	_	_	_	_	_	_
+30	wa	_	_	_	_	_	_	_	_
+31	bone	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	nna	_	_	_	_	_	_	_	_
+34	maoto	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	tshupa	_	_	_	_	_	_	_	_
+37	go	_	_	_	_	_	_	_	_
+38	ingwaa	_	_	_	_	_	_	_	_
+39	kgeleswa.	_	_	_	_	_	_	_	_
+
+# sent_id = 6
+# text = Ba re seo ga se letshwao la tshiamo, ke sesupo sa gore motho o a bo a le bohula, a sa kgatlhegele go tsholetsa ba ba weleng.
+1	Ba	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	seo	_	_	_	_	_	_	_	_
+4	ga	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	letshwao	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	tshiamo,	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	sesupo	_	_	_	_	_	_	_	_
+11	sa	_	_	_	_	_	_	_	_
+12	gore	_	_	_	_	_	_	_	_
+13	motho	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	bo	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	le	_	_	_	_	_	_	_	_
+19	bohula,	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	sa	_	_	_	_	_	_	_	_
+22	kgatlhegele	_	_	_	_	_	_	_	_
+23	go	_	_	_	_	_	_	_	_
+24	tsholetsa	_	_	_	_	_	_	_	_
+25	ba	_	_	_	_	_	_	_	_
+26	ba	_	_	_	_	_	_	_	_
+27	weleng.	_	_	_	_	_	_	_	_
+
+# sent_id = 7
+# text = Ba re sengwe se se ba tshwenyang ke go bo bagwebi le mapolotiki ba reteletswe ke go ntsha madi a a botoka go rotloetsa tiro e ba tshwaraganeng nayo.
+1	Ba	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	sengwe	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	ba	_	_	_	_	_	_	_	_
+7	tshwenyang	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	go	_	_	_	_	_	_	_	_
+10	bo	_	_	_	_	_	_	_	_
+11	bagwebi	_	_	_	_	_	_	_	_
+12	le	_	_	_	_	_	_	_	_
+13	mapolotiki	_	_	_	_	_	_	_	_
+14	ba	_	_	_	_	_	_	_	_
+15	reteletswe	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	go	_	_	_	_	_	_	_	_
+18	ntsha	_	_	_	_	_	_	_	_
+19	madi	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	botoka	_	_	_	_	_	_	_	_
+23	go	_	_	_	_	_	_	_	_
+24	rotloetsa	_	_	_	_	_	_	_	_
+25	tiro	_	_	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	ba	_	_	_	_	_	_	_	_
+28	tshwaraganeng	_	_	_	_	_	_	_	_
+29	nayo.	_	_	_	_	_	_	_	_
+
+# sent_id = 8
+# text = Ba re pele ga ba simolola tiro e, ba ne ba kopa thuso mo bagwebing mme bagwebi ba ba sega tsebe ka go ntsha madi a a kwa tlase thata.
+1	Ba	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	pele	_	_	_	_	_	_	_	_
+4	ga	_	_	_	_	_	_	_	_
+5	ba	_	_	_	_	_	_	_	_
+6	simolola	_	_	_	_	_	_	_	_
+7	tiro	_	_	_	_	_	_	_	_
+8	e,	_	_	_	_	_	_	_	_
+9	ba	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	kopa	_	_	_	_	_	_	_	_
+13	thuso	_	_	_	_	_	_	_	_
+14	mo	_	_	_	_	_	_	_	_
+15	bagwebing	_	_	_	_	_	_	_	_
+16	mme	_	_	_	_	_	_	_	_
+17	bagwebi	_	_	_	_	_	_	_	_
+18	ba	_	_	_	_	_	_	_	_
+19	ba	_	_	_	_	_	_	_	_
+20	sega	_	_	_	_	_	_	_	_
+21	tsebe	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	go	_	_	_	_	_	_	_	_
+24	ntsha	_	_	_	_	_	_	_	_
+25	madi	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	kwa	_	_	_	_	_	_	_	_
+29	tlase	_	_	_	_	_	_	_	_
+30	thata.	_	_	_	_	_	_	_	_
+
+# sent_id = 9
+# text = Ba re go dira jalo go supa fa ba ne ba sa kgatlhegele mogopolo wa go agela motlhoki yoo ntlo.
+1	Ba	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	go	_	_	_	_	_	_	_	_
+4	dira	_	_	_	_	_	_	_	_
+5	jalo	_	_	_	_	_	_	_	_
+6	go	_	_	_	_	_	_	_	_
+7	supa	_	_	_	_	_	_	_	_
+8	fa	_	_	_	_	_	_	_	_
+9	ba	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	sa	_	_	_	_	_	_	_	_
+13	kgatlhegele	_	_	_	_	_	_	_	_
+14	mogopolo	_	_	_	_	_	_	_	_
+15	wa	_	_	_	_	_	_	_	_
+16	go	_	_	_	_	_	_	_	_
+17	agela	_	_	_	_	_	_	_	_
+18	motlhoki	_	_	_	_	_	_	_	_
+19	yoo	_	_	_	_	_	_	_	_
+20	ntlo.	_	_	_	_	_	_	_	_
+
+# sent_id = 10
+# text = "Bagwebi le mapolotiki ba goga dinao fa go tla mo ditirong tsa boutlwelo botlhoko.
+1	"Bagwebi	_	_	_	_	_	_	_	_
+2	le	_	_	_	_	_	_	_	_
+3	mapolotiki	_	_	_	_	_	_	_	_
+4	ba	_	_	_	_	_	_	_	_
+5	goga	_	_	_	_	_	_	_	_
+6	dinao	_	_	_	_	_	_	_	_
+7	fa	_	_	_	_	_	_	_	_
+8	go	_	_	_	_	_	_	_	_
+9	tla	_	_	_	_	_	_	_	_
+10	mo	_	_	_	_	_	_	_	_
+11	ditirong	_	_	_	_	_	_	_	_
+12	tsa	_	_	_	_	_	_	_	_
+13	boutlwelo	_	_	_	_	_	_	_	_
+14	botlhoko.	_	_	_	_	_	_	_	_
+
+# sent_id = 11
+# text = Fa mogwebi yo mogolo a ntsha masome a mabedi a dipula, ke moka a sa ntshang sepe, ga se thotloetso e e kgotsofatsang", ga ngongorega Ntaise.
+1	Fa	_	_	_	_	_	_	_	_
+2	mogwebi	_	_	_	_	_	_	_	_
+3	yo	_	_	_	_	_	_	_	_
+4	mogolo	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ntsha	_	_	_	_	_	_	_	_
+7	masome	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	mabedi	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	dipula,	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	moka	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	sa	_	_	_	_	_	_	_	_
+16	ntshang	_	_	_	_	_	_	_	_
+17	sepe,	_	_	_	_	_	_	_	_
+18	ga	_	_	_	_	_	_	_	_
+19	se	_	_	_	_	_	_	_	_
+20	thotloetso	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	kgotsofatsang",	_	_	_	_	_	_	_	_
+24	ga	_	_	_	_	_	_	_	_
+25	ngongorega	_	_	_	_	_	_	_	_
+26	Ntaise.	_	_	_	_	_	_	_	_
+
+# sent_id = 12
+# text = A re bagwebi ga ba a tshwanela go lebala gore ba se ba leng sone ntateng ya setšhaba.
+1	A	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	bagwebi	_	_	_	_	_	_	_	_
+4	ga	_	_	_	_	_	_	_	_
+5	ba	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	tshwanela	_	_	_	_	_	_	_	_
+8	go	_	_	_	_	_	_	_	_
+9	lebala	_	_	_	_	_	_	_	_
+10	gore	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	ba	_	_	_	_	_	_	_	_
+14	leng	_	_	_	_	_	_	_	_
+15	sone	_	_	_	_	_	_	_	_
+16	ntateng	_	_	_	_	_	_	_	_
+17	ya	_	_	_	_	_	_	_	_
+18	setšhaba.	_	_	_	_	_	_	_	_
+
+# sent_id = 13
+# text = Ka jalo, ba tshwanetse go tlhagafalela go thusa setšhaba  seo gonne ga twe mabogo dinku.
+1	Ka	_	_	_	_	_	_	_	_
+2	jalo,	_	_	_	_	_	_	_	_
+3	ba	_	_	_	_	_	_	_	_
+4	tshwanetse	_	_	_	_	_	_	_	_
+5	go	_	_	_	_	_	_	_	_
+6	tlhagafalela	_	_	_	_	_	_	_	_
+7	go	_	_	_	_	_	_	_	_
+8	thusa	_	_	_	_	_	_	_	_
+9	setšhaba	_	_	_	_	_	_	_	_
+10	seo	_	_	_	_	_	_	_	_
+11	gonne	_	_	_	_	_	_	_	_
+12	ga	_	_	_	_	_	_	_	_
+13	twe	_	_	_	_	_	_	_	_
+14	mabogo	_	_	_	_	_	_	_	_
+15	dinku.	_	_	_	_	_	_	_	_
+
+# sent_id = 14
+# text = "Ga ke reye gore ga ba a ntsha, kgang kgolo ke gore ba ntshitse go le go nnye thata," a tlhalosa.
+1	"Ga	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	reye	_	_	_	_	_	_	_	_
+4	gore	_	_	_	_	_	_	_	_
+5	ga	_	_	_	_	_	_	_	_
+6	ba	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ntsha,	_	_	_	_	_	_	_	_
+9	kgang	_	_	_	_	_	_	_	_
+10	kgolo	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	gore	_	_	_	_	_	_	_	_
+13	ba	_	_	_	_	_	_	_	_
+14	ntshitse	_	_	_	_	_	_	_	_
+15	go	_	_	_	_	_	_	_	_
+16	le	_	_	_	_	_	_	_	_
+17	go	_	_	_	_	_	_	_	_
+18	nnye	_	_	_	_	_	_	_	_
+19	thata,"	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	tlhalosa.	_	_	_	_	_	_	_	_
+
+# sent_id = 15
+# text = Le fa go ntse jalo, a re o lebogela bonnyennyane jo ba bo ntshitseng gonne ga twe sejo sennye.
+1	Le	_	_	_	_	_	_	_	_
+2	fa	_	_	_	_	_	_	_	_
+3	go	_	_	_	_	_	_	_	_
+4	ntse	_	_	_	_	_	_	_	_
+5	jalo,	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	re	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	lebogela	_	_	_	_	_	_	_	_
+10	bonnyennyane	_	_	_	_	_	_	_	_
+11	jo	_	_	_	_	_	_	_	_
+12	ba	_	_	_	_	_	_	_	_
+13	bo	_	_	_	_	_	_	_	_
+14	ntshitseng	_	_	_	_	_	_	_	_
+15	gonne	_	_	_	_	_	_	_	_
+16	ga	_	_	_	_	_	_	_	_
+17	twe	_	_	_	_	_	_	_	_
+18	sejo	_	_	_	_	_	_	_	_
+19	sennye.	_	_	_	_	_	_	_	_
+
+# sent_id = 16
+# text = O ba gwetlhile gore mo nakong e e tlang ba ntshe mo go botoka.
+1	O	_	_	_	_	_	_	_	_
+2	ba	_	_	_	_	_	_	_	_
+3	gwetlhile	_	_	_	_	_	_	_	_
+4	gore	_	_	_	_	_	_	_	_
+5	mo	_	_	_	_	_	_	_	_
+6	nakong	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	tlang	_	_	_	_	_	_	_	_
+10	ba	_	_	_	_	_	_	_	_
+11	ntshe	_	_	_	_	_	_	_	_
+12	mo	_	_	_	_	_	_	_	_
+13	go	_	_	_	_	_	_	_	_
+14	botoka.	_	_	_	_	_	_	_	_
+
+# sent_id = 17
+# text = E re dikgang di eme jalo, Mani ene a re o itumelela gore ga ba a ka ba ineela le fa bagwebi ba ne ba leka go ba kgoba marapo.
+1	E	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	dikgang	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	eme	_	_	_	_	_	_	_	_
+6	jalo,	_	_	_	_	_	_	_	_
+7	Mani	_	_	_	_	_	_	_	_
+8	ene	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	re	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	itumelela	_	_	_	_	_	_	_	_
+13	gore	_	_	_	_	_	_	_	_
+14	ga	_	_	_	_	_	_	_	_
+15	ba	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	ba	_	_	_	_	_	_	_	_
+19	ineela	_	_	_	_	_	_	_	_
+20	le	_	_	_	_	_	_	_	_
+21	fa	_	_	_	_	_	_	_	_
+22	bagwebi	_	_	_	_	_	_	_	_
+23	ba	_	_	_	_	_	_	_	_
+24	ne	_	_	_	_	_	_	_	_
+25	ba	_	_	_	_	_	_	_	_
+26	leka	_	_	_	_	_	_	_	_
+27	go	_	_	_	_	_	_	_	_
+28	ba	_	_	_	_	_	_	_	_
+29	kgoba	_	_	_	_	_	_	_	_
+30	marapo.	_	_	_	_	_	_	_	_
+
+# sent_id = 18
+# text = A re seo ke sekai sa gore maikaelelo ke phenyo.
+1	A	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	seo	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	sekai	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	gore	_	_	_	_	_	_	_	_
+8	maikaelelo	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	phenyo.	_	_	_	_	_	_	_	_
+
+# sent_id = 19
+# text = Mongwe wa barutabana, Ontshabetse Sepopo, e rile a ntsha la gagwee a re, "Ga re a itumela gotlhelele, seabe sa bagwebi ke se se kgobang marapo".
+1	Mongwe	_	_	_	_	_	_	_	_
+2	wa	_	_	_	_	_	_	_	_
+3	barutabana,	_	_	_	_	_	_	_	_
+4	Ontshabetse	_	_	_	_	_	_	_	_
+5	Sepopo,	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	rile	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	ntsha	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	gagwee	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	re,	_	_	_	_	_	_	_	_
+14	"Ga	_	_	_	_	_	_	_	_
+15	re	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	itumela	_	_	_	_	_	_	_	_
+18	gotlhelele,	_	_	_	_	_	_	_	_
+19	seabe	_	_	_	_	_	_	_	_
+20	sa	_	_	_	_	_	_	_	_
+21	bagwebi	_	_	_	_	_	_	_	_
+22	ke	_	_	_	_	_	_	_	_
+23	se	_	_	_	_	_	_	_	_
+24	se	_	_	_	_	_	_	_	_
+25	kgobang	_	_	_	_	_	_	_	_
+26	marapo".	_	_	_	_	_	_	_	_
+
+# sent_id = 20
+# text = A re bagwebi ba itebatsa gore fa batho ba ka ba itlhokomolosa ba ka ba itlhokomolosa ba ka wa ka mpa ya sebete.
+1	A	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	bagwebi	_	_	_	_	_	_	_	_
+4	ba	_	_	_	_	_	_	_	_
+5	itebatsa	_	_	_	_	_	_	_	_
+6	gore	_	_	_	_	_	_	_	_
+7	fa	_	_	_	_	_	_	_	_
+8	batho	_	_	_	_	_	_	_	_
+9	ba	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	itlhokomolosa	_	_	_	_	_	_	_	_
+13	ba	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ba	_	_	_	_	_	_	_	_
+16	itlhokomolosa	_	_	_	_	_	_	_	_
+17	ba	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	wa	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	mpa	_	_	_	_	_	_	_	_
+22	ya	_	_	_	_	_	_	_	_
+23	sebete.	_	_	_	_	_	_	_	_
+
+# sent_id = 21
+# text = "Gompieno rona re rekile didirisiwa tsa kago mo go bone ka dipelo tse di seng mafuto", Sepopo a ngongorega.
+1	"Gompieno	_	_	_	_	_	_	_	_
+2	rona	_	_	_	_	_	_	_	_
+3	re	_	_	_	_	_	_	_	_
+4	rekile	_	_	_	_	_	_	_	_
+5	didirisiwa	_	_	_	_	_	_	_	_
+6	tsa	_	_	_	_	_	_	_	_
+7	kago	_	_	_	_	_	_	_	_
+8	mo	_	_	_	_	_	_	_	_
+9	go	_	_	_	_	_	_	_	_
+10	bone	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	dipelo	_	_	_	_	_	_	_	_
+13	tse	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	seng	_	_	_	_	_	_	_	_
+16	mafuto",	_	_	_	_	_	_	_	_
+17	Sepopo	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	ngongorega.	_	_	_	_	_	_	_	_
+
+# sent_id = 22
+# text = A re go palelwa ke go ntsha madi ga bagwebi go ka nna ga dira gore tiro ya baithuti e se ka ya wela sentle.
+1	A	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	go	_	_	_	_	_	_	_	_
+4	palelwa	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	go	_	_	_	_	_	_	_	_
+7	ntsha	_	_	_	_	_	_	_	_
+8	madi	_	_	_	_	_	_	_	_
+9	ga	_	_	_	_	_	_	_	_
+10	bagwebi	_	_	_	_	_	_	_	_
+11	go	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	nna	_	_	_	_	_	_	_	_
+14	ga	_	_	_	_	_	_	_	_
+15	dira	_	_	_	_	_	_	_	_
+16	gore	_	_	_	_	_	_	_	_
+17	tiro	_	_	_	_	_	_	_	_
+18	ya	_	_	_	_	_	_	_	_
+19	baithuti	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	se	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ya	_	_	_	_	_	_	_	_
+24	wela	_	_	_	_	_	_	_	_
+25	sentle.	_	_	_	_	_	_	_	_
+
+# sent_id = 23
+# text = O tlhaloseditse Mokgosi gore madi a ba setseng ka one ke makgolo a matlhano a dipula.
+1	O	_	_	_	_	_	_	_	_
+2	tlhaloseditse	_	_	_	_	_	_	_	_
+3	Mokgosi	_	_	_	_	_	_	_	_
+4	gore	_	_	_	_	_	_	_	_
+5	madi	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ba	_	_	_	_	_	_	_	_
+8	setseng	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	one	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	makgolo	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	matlhano	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	dipula.	_	_	_	_	_	_	_	_
+
+# sent_id = 24
+# text = A re madi ao a a tlhaela.
+1	A	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	madi	_	_	_	_	_	_	_	_
+4	ao	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	tlhaela.	_	_	_	_	_	_	_	_
+
+# sent_id = 25
+# text = A re gongwe ga ba na go kgona go penta ntlo le go rekela motlhoki bolao jaaka ba akantse.
+1	A	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	gongwe	_	_	_	_	_	_	_	_
+4	ga	_	_	_	_	_	_	_	_
+5	ba	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	go	_	_	_	_	_	_	_	_
+8	kgona	_	_	_	_	_	_	_	_
+9	go	_	_	_	_	_	_	_	_
+10	penta	_	_	_	_	_	_	_	_
+11	ntlo	_	_	_	_	_	_	_	_
+12	le	_	_	_	_	_	_	_	_
+13	go	_	_	_	_	_	_	_	_
+14	rekela	_	_	_	_	_	_	_	_
+15	motlhoki	_	_	_	_	_	_	_	_
+16	bolao	_	_	_	_	_	_	_	_
+17	jaaka	_	_	_	_	_	_	_	_
+18	ba	_	_	_	_	_	_	_	_
+19	akantse.	_	_	_	_	_	_	_	_
+
+# sent_id = 26
+# text = Le fa go ntse jalo, o lebogile botlhe ba ba ntsheditseng tiro e dithebenyana.
+1	Le	_	_	_	_	_	_	_	_
+2	fa	_	_	_	_	_	_	_	_
+3	go	_	_	_	_	_	_	_	_
+4	ntse	_	_	_	_	_	_	_	_
+5	jalo,	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	lebogile	_	_	_	_	_	_	_	_
+8	botlhe	_	_	_	_	_	_	_	_
+9	ba	_	_	_	_	_	_	_	_
+10	ba	_	_	_	_	_	_	_	_
+11	ntsheditseng	_	_	_	_	_	_	_	_
+12	tiro	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	dithebenyana.	_	_	_	_	_	_	_	_
+
+# sent_id = 27
+# text = O kopile bagwebi gore mo isagong ba ititeye ka thupana, ba tsenye mabogo thata mo ditirong tsa go nna jaana.
+1	O	_	_	_	_	_	_	_	_
+2	kopile	_	_	_	_	_	_	_	_
+3	bagwebi	_	_	_	_	_	_	_	_
+4	gore	_	_	_	_	_	_	_	_
+5	mo	_	_	_	_	_	_	_	_
+6	isagong	_	_	_	_	_	_	_	_
+7	ba	_	_	_	_	_	_	_	_
+8	ititeye	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	thupana,	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	tsenye	_	_	_	_	_	_	_	_
+13	mabogo	_	_	_	_	_	_	_	_
+14	thata	_	_	_	_	_	_	_	_
+15	mo	_	_	_	_	_	_	_	_
+16	ditirong	_	_	_	_	_	_	_	_
+17	tsa	_	_	_	_	_	_	_	_
+18	go	_	_	_	_	_	_	_	_
+19	nna	_	_	_	_	_	_	_	_
+20	jaana.	_	_	_	_	_	_	_	_
+
